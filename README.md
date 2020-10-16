@@ -1,3 +1,9 @@
+
+# Laëtitia Dolne's Dev Landing Page
+Dev Landing Page for Laëtitia Dolne. Idea and design by Dinesh Pandiyan.
+
+Here's my page: [Laëtitia Dolne](https://ldolne.github.io/).
+
 # Dev Landing Page
 
 Minimal landing page for developers.
